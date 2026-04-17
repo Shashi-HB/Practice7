@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS Proects\\Prac7\\Pra7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|d:\\vs proects\\prac7\\pra7\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|solutionrelative:base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|d:\\vs proects\\prac7\\pra7\\drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|solutionrelative:drivers\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|d:\\vs proects\\prac7\\pra7\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|solutionrelative:base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|d:\\vs proects\\prac7\\pra7\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|solutionrelative:pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|d:\\vs proects\\prac7\\pra7\\pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|solutionrelative:pages\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|d:\\vs proects\\prac7\\pra7\\pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|solutionrelative:pages\\inventorypage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|d:\\vs proects\\prac7\\pra7\\tests\\e2etests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|solutionrelative:tests\\e2etests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|d:\\vs proects\\prac7\\pra7\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E0AAEC-D77A-2001-9181-7E7EA4AAEAB7}|Pra7.csproj|solutionrelative:pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryPage.cs",
+              "DocumentMoniker": "D:\\VS Proects\\Prac7\\Pra7\\Pages\\InventoryPage.cs",
+              "RelativeDocumentMoniker": "Pages\\InventoryPage.cs",
+              "ToolTip": "D:\\VS Proects\\Prac7\\Pra7\\Pages\\InventoryPage.cs",
+              "RelativeToolTip": "Pages\\InventoryPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:48:58.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "E2ETests.cs",
+              "DocumentMoniker": "D:\\VS Proects\\Prac7\\Pra7\\Tests\\E2ETests.cs",
+              "RelativeDocumentMoniker": "Tests\\E2ETests.cs",
+              "ToolTip": "D:\\VS Proects\\Prac7\\Pra7\\Tests\\E2ETests.cs",
+              "RelativeToolTip": "Tests\\E2ETests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:36:22.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverFactory.cs",
+              "DocumentMoniker": "D:\\VS Proects\\Prac7\\Pra7\\Drivers\\DriverFactory.cs",
+              "RelativeDocumentMoniker": "Drivers\\DriverFactory.cs",
+              "ToolTip": "D:\\VS Proects\\Prac7\\Pra7\\Drivers\\DriverFactory.cs",
+              "RelativeToolTip": "Drivers\\DriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:54:01.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "D:\\VS Proects\\Prac7\\Pra7\\Base\\BaseTest.cs",
+              "RelativeDocumentMoniker": "Base\\BaseTest.cs",
+              "ToolTip": "D:\\VS Proects\\Prac7\\Pra7\\Base\\BaseTest.cs",
+              "RelativeToolTip": "Base\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:03:03.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "D:\\VS Proects\\Prac7\\Pra7\\Pages\\CartPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CartPage.cs",
+              "ToolTip": "D:\\VS Proects\\Prac7\\Pra7\\Pages\\CartPage.cs",
+              "RelativeToolTip": "Pages\\CartPage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:08:02.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "D:\\VS Proects\\Prac7\\Pra7\\Pages\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CheckoutPage.cs",
+              "ToolTip": "D:\\VS Proects\\Prac7\\Pra7\\Pages\\CheckoutPage.cs",
+              "RelativeToolTip": "Pages\\CheckoutPage.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T17:30:23.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\VS Proects\\Prac7\\Pra7\\Pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.cs",
+              "ToolTip": "D:\\VS Proects\\Prac7\\Pra7\\Pages\\LoginPage.cs",
+              "RelativeToolTip": "Pages\\LoginPage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:26:19.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "D:\\VS Proects\\Prac7\\Pra7\\Base\\BasePage.cs",
+              "RelativeDocumentMoniker": "Base\\BasePage.cs",
+              "ToolTip": "D:\\VS Proects\\Prac7\\Pra7\\Base\\BasePage.cs",
+              "RelativeToolTip": "Base\\BasePage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T16:17:33.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
