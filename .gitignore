@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin/Debug/net10.0/nunit_random_seed.tmp
+/.vs/Pra7.slnx/FileContentIndex/49f7523c-39ac-4f1d-92d4-5f58d7a46526.vsidx
+/.vs/Pra7.slnx/FileContentIndex/517a3556-a026-4207-bac7-f3329eb78485.vsidx
+/.vs/Pra7.slnx/FileContentIndex/52b83b3c-f5d3-4a5c-8504-905dbfd217b9.vsidx
+/.vs/Pra7.slnx/FileContentIndex/3f8e62b5-a991-4ad7-8ae7-af44eb558cbb.vsidx
+/.vs/Pra7.slnx/FileContentIndex/c2fea823-3487-432c-83d7-d2a44a1e2bae.vsidx
+/.vs/Pra7.slnx/FileContentIndex/ad70d6d5-a548-4567-9c9a-2368f1e59656.vsidx
+/.vs/Pra7.slnx/FileContentIndex/c79efa20-0bcc-4096-afac-77296c3e12ba.vsidx
+/.vs/Pra7.slnx/FileContentIndex/7aab374c-d3de-42df-b01d-41c9f77edd1f.vsidx
+/.vs/Pra7.slnx/FileContentIndex
+/.vs/Pra7.slnx/v18/TestStore/0/000.testlog
+/obj/Debug/net10.0/Pra7.AssemblyInfo.cs
+/obj/Debug/net10.0/Pra7.AssemblyInfoInputs.cache
+/obj/Debug/net10.0/Pra7.assets.cache
+/obj/Debug/net10.0/Pra7.GeneratedMSBuildEditorConfig.editorconfig
+/obj/Pra7.csproj.nuget.dgspec.json
+/obj/project.assets.json
+/obj/project.nuget.cache
