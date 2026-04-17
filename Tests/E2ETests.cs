@@ -26,7 +26,7 @@ namespace Pra7.Tests
             var checkout = new CheckoutPage(driver);
             checkout.FillDetails("John", "Doe", "12345");
             checkout.Continue();
-            //comment
+            //comment 1
         }
     }
 }
